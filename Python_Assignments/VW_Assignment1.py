@@ -1,0 +1,5 @@
+print("Hello!")
+name=input("What's your name? ")
+major=input("What's your major? ")
+fav=input("What is your favorite thing to do? ")
+print("Okay so you are " + name + ", and you're a(n) " + major + " major, that likes to " + fav.lower() + "? That's cool!")
