@@ -1,0 +1,26 @@
+#Program_2
+import turtle
+v = turtle.Turtle()
+v.speed(3)
+v.up()
+v.backward(150)
+v.down()
+v.right(70)
+v.forward(150)
+v.left(140)
+v.forward(150)
+
+#wanted to do both initials. never heard of turtle before but it's fun!
+v.up()
+v.right(70)
+v.forward(30)
+v.down()
+v.right(70)
+v.forward(150)
+v.left(140)
+v.forward(150)
+v.right(140)
+v.forward(150)
+v.left(140)
+v.forward(150)
+turtle.done()
