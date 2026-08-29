@@ -9,8 +9,7 @@ v.right(70)
 v.forward(150)
 v.left(140)
 v.forward(150)
-
-#wanted to do both initials. never heard of turtle before but it's fun!
+#wanted to do both initials since they're pretty easy. never heard of turtle before but it's fun!
 v.up()
 v.right(70)
 v.forward(30)
