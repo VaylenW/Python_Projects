@@ -2,6 +2,7 @@
 import turtle
 v = turtle.Turtle()
 v.speed(3)
+#trying to center it on the screen somewhat
 v.up()
 v.backward(150)
 v.down()
@@ -22,4 +23,5 @@ v.right(140)
 v.forward(150)
 v.left(140)
 v.forward(150)
+#had to lookup how to keep it from closing on its own
 turtle.done()
