@@ -14,4 +14,4 @@ if charged_riders < 0:
 subtotal = charged_riders * 5 + subtotal
 total = subtotal * .06 +subtotal
 tax = subtotal * .06
-print(f"Your subtotal before tex is ${subtotal} and your tax is ${format(tax, ",.2f")}, your grand total price of the rental is ${format(total, ",.2f")}")
+print(f"Your subtotal before tex is ${subtotal} and your tax is ${tax:,.2f}, your grand total price of the rental is ${total:,.2f}.")
